@@ -3,7 +3,7 @@
 import java.util.Scanner;
  
 public class QuickMaths{
-   public static void main(String[] args);{
+   public static void main(String[] args){
 
     double num1;
     double num2;
